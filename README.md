@@ -1,2 +1,2 @@
 # ImageViewer
-View random images through Unsplash
+View random images through Unsplash.

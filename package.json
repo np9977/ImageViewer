@@ -1,0 +1,23 @@
+{
+  "name": "imageviewer",
+  "version": "1.0.0",
+  "description": "View random images and search.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/np9977/ImageViewer.git"
+  },
+  "author": "Neil Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/np9977/ImageViewer/issues"
+  },
+  "homepage": "https://github.com/np9977/ImageViewer#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "unsplash-js": "^4.8.0"
+  }
+}
