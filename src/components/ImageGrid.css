@@ -1,7 +1,37 @@
 .title {
-    font-size: 50px;
+    font-size: 33px;
+    margin-top: 30px;
 }
 
 .images {
-    text-align: center;
+    display: inline-block;
+    text-align: left;
+}
+
+.title {
+    width:400px;
+}   
+
+.searchBar {
+    border: none;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 20px 10px 15px;
+    width: 365px;
+    margin-bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
+    height: 35px;
+    
+}
+
+.searchButton {
+    vertical-align: middle;
+    padding:5px 5px 5px 5px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    height: 35px;
+    margin-bottom: 1.3px;
+}
+
+.search {
+    
 }

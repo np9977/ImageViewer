@@ -3,18 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@opuscapita/react-searchbar": "^1.0.6",
     "axios": "^0.18.0",
     "es6-promise": "^4.2.5",
     "isomorphic-fetch": "^2.2.1",
+    "material-ui": "^0.20.2",
+    "material-ui-search-bar": "^0.4.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts": "2.0.4",
     "unsplash-js": "^4.8.0"
   },
   "scripts": {
-    "start": "npm-run-all --parallel start:server start:web",
-    "start:web": "react-scripts start",
-    "start:server": "node server/server",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

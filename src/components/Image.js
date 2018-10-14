@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './Image.css';
-import {downloadimage} from './ImageGrid';
 
 class Image extends Component {
     render() {
